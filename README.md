@@ -10,4 +10,4 @@ Requirements:
 1)Install pygame module to run this game.
 2)We coded this game using pycharm and we imported modules like pygame, random, mixer.
 Acknowledgments:
-The code for the Tetris game logic is based on a tutorial by GeeksforGeeks School youtube channel
+The code for the Tetris game logic is based on a tutorial by GeeksforGeeks  youtube channel
