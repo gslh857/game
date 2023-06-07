@@ -5,3 +5,4 @@ How to Play:
 3)Use the spacebar to drop the shape to the bottom.
 4)If one line gets cleared at bottom we get 1 point.
 5)The game ends when the shapes stack up to the top.
+6)Then press ESC to restart the game
