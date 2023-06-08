@@ -16,7 +16,7 @@ Programming project at IIT Palakkad
 1.Install pygame module to run this game.
 2.We coded this game using pycharm and we imported modules like pygame, random, mixer.
 #File Structure:
-1..py: Contains the main logic which runs the game
+1. main.py: Contains the main logic which runs the game
 2.READ.md: The README file that you are currently reading.
 #Acknowledgments:
 -The concept of tetris game was originally created by Alexey Pajitnov.
