@@ -10,4 +10,6 @@ Requirements:
 1)Install pygame module to run this game.
 2)We coded this game using pycharm and we imported modules like pygame, random, mixer.
 Acknowledgments:
-The code for the Tetris game logic is based on a tutorial by GeeksforGeeks  youtube channel
+The concept of tetris game was originally created by Alexey Pajitnov.
+The code for the Tetris game logic is based on a tutorial by GeeksforGeeks  youtube channel.
+
