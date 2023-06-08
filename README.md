@@ -22,5 +22,3 @@ Programming project at IIT Palakkad
 -The concept of tetris game was originally created by Alexey Pajitnov.
 -The code for the Tetris game logic is based on a tutorial by GeeksforGeeks  youtube channel.
 -This implementation was developed as a learning exercise and is not affiliated with or endorsed by the orginal creators.
-
-
